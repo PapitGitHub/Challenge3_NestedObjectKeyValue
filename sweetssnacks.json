@@ -1,0 +1,49 @@
+{
+    "SweetsSnacks":{
+        "PakwanSweets": {
+            "MangoBarfi": "Yes"            
+        },
+        "AgrawalSweets": {
+            "MangoBarfi": [
+                "Yes"
+            ]
+        },
+        "DeepakSweets": {  
+            "MangoBarfi": [
+                "Naah.."
+            ]
+        },
+        "GuruSweets": {
+            "KajuKatli": [
+               "No"
+            ]
+        },
+        "IndianSweets": {
+            "KajuKatli": [
+               "No"
+            ]
+        },
+        "HiFiveSweets": {
+            "KajuKatli": [
+               "Yes"
+            ]
+        },
+        "CheerioSweets": {
+            "Samosa": [
+                "Yes"
+            ]
+        },
+        "HeyYouSweets": {
+            "Samosa": [
+                "Yes",
+                "No"  
+            ]
+           
+        },
+        "YummyTummySweets": {
+            "Samosa": [
+               "Yeah"
+            ]
+        }
+    }
+}
